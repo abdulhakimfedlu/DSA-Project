@@ -2,7 +2,6 @@ body {
     text-align: center;
     font-family: Arial, sans-serif;
 }
-
 #container {
     display: flex;
     justify-content: center;
