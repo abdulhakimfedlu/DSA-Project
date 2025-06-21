@@ -3,6 +3,7 @@ function generateArray() {
     arr = Array.from({ length: 20 }, () => Math.floor(Math.random() * 100) + 1);
     drawArray();
 }
+
 function drawArray() {
     const container = document.getElementById("container");
     container.innerHTML = "";
