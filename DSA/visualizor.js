@@ -1,3 +1,10 @@
+
+
+
+
+
+
+
 let arr = [];
 function generateArray() {
     arr = Array.from({ length: 20 }, () => Math.floor(Math.random() * 100) + 1);
